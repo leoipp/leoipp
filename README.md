@@ -65,7 +65,7 @@ and advanced statistical and ML models applied to real forest production systems
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="www.linkedin.com/in/leonardo-ippolito-915354134" target="_blank">
+<a href="https://linkedin.com/in/leonardo-ippolito-915354134" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
