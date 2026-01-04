@@ -65,15 +65,15 @@ and advanced statistical and ML models applied to real forest production systems
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/SEU_LINK" target="_blank">
+<a href="www.linkedin.com/in/leonardo-ippolito-915354134" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
+<a href="mailto:leoippef@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/SEU_USER" target="_blank">
+<a href="https://www.instagram.com/leoipp" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
