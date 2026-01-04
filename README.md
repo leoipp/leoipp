@@ -8,9 +8,6 @@ I combine <b>forestry science</b>, <b>geospatial data</b>, and <b>machine learni
 to transform forest measurements into predictive intelligence.
 </p>
 
-<img src="https://streak-stats.demolab.com?user=leoipp&locale=en&mode=daily&theme=ayu-mirage&hide_border=true&border_radius=6" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoipp&layout=compact&langs_count=6&theme=ayu-mirage&hide_border=true" height="150"/>
-
 </div>
 
 ---
@@ -62,14 +59,6 @@ and advanced statistical and ML models applied to real forest production systems
 - 🛰️ **LiDAR-based volume forecasting**
 - 📊 Diameter distribution modeling (Weibull, logistic)
 - 🧠 ML pipelines for operational forestry decisions
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/leoipp/leoipp/output/snake.svg" alt="Contribution Snake Animation"/>
-</div>
 
 ---
 
