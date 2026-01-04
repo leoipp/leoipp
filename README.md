@@ -1,40 +1,94 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=leoipp&locale=en&mode=daily&theme=ayu-mirage&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoipp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true" height="150" alt="languages graph"  />
+
+# 🌲 Leonardo Ippolito  
+### Programming Forester | Forest Biometrics • LiDAR • Machine Learning
+
+<p>
+I combine <b>forestry science</b>, <b>geospatial data</b>, and <b>machine learning</b>  
+to transform forest measurements into predictive intelligence.
+</p>
+
+<img src="https://streak-stats.demolab.com?user=leoipp&locale=en&mode=daily&theme=ayu-mirage&hide_border=true&border_radius=6" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoipp&layout=compact&langs_count=6&theme=ayu-mirage&hide_border=true" height="150"/>
+
 </div>
 
-###
+---
 
-<h2 align="left">Hey I'm Leonardo, a programming forester !🌲💻</h2>
+## 👋 About Me
 
-###
+I'm a **forestry engineer / data scientist hybrid** focused on:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+- 🌲 Forest inventory (pre-cut, continuous, survival)
+- 🛰️ LiDAR & point cloud processing (LAS/LAZ)
+- 📊 Forest growth & yield modeling
+- 🤖 Machine learning for volumetrics and prediction
+- 🧠 Virtual trees & synthetic data generation
+
+I work daily with **large-scale forestry datasets**, operational calibration (harvesters, log scanners),
+and advanced statistical and ML models applied to real forest production systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+</p>
+
+### Databases & GIS
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32"/>
+</p>
+
+### Forestry & Geospatial (daily tools)
+- LAStools, FUSION, PDAL
+- ArcGIS Pro, QGIS
+- Rasterio, GeoPandas
+- NumPy, Pandas, SciPy
+- TensorFlow / Keras, Scikit-learn
+
+---
+
+## 🔬 What I’m Working On
+
+- 🌲 **Virtual Tree Generation** using neural networks  
+- 📐 **Schumacher & Hall** + taper models automation  
+- 🛰️ **LiDAR-based volume forecasting**
+- 📊 Diameter distribution modeling (Weibull, logistic)
+- 🧠 ML pipelines for operational forestry decisions
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/leoipp/leoipp/output/snake.svg" alt="Contribution Snake Animation"/>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
+## 🔗 Connect with Me
 
-###
+<p align="left">
+<a href="https://www.linkedin.com/in/SEU_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br clear="both">
+<a href="mailto:SEU_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/leoipp/leoipp/output/snake.svg" alt="Snake animation" />
+<a href="https://www.instagram.com/SEU_USER" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
-###
+---
+
+⭐ *Turning forest data into intelligence, one tree at a time.*
